@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(253, 244, 244);
+}
+
+.conteudo{
+ margin-top: 100px;
+}
+
+h1{
+ color: rgb(237, 237, 14);
+ position: relative;
+ display: flex;
+ justify-content: center;
+
+}
+p{
+    font-size: 16px;
+}
+
+p strong{
+    font-size: 18px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.coluna {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.operadores {
+    background-color: #ffcccb; /* Cor diferente para destacar */
+}
+
+.descricao {
+    background-color: #d3f4ff; /* Outra cor diferente */
+}
